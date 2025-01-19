@@ -37,6 +37,14 @@ h2::before {
     position: center;
     left: -20px;
 }
+header {
+    margin-bottom: 20px;
+    background-color: rgb(244, 79, 79);
+    text-align: center;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
 footer {
     background-color: rgb(244, 79, 79);
     text-align: center;
